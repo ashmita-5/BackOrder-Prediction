@@ -1,0 +1,2 @@
+national_inv,lead_time,in_transit_qty,sales_1_month,sales_3_month,sales_6_month,sales_9_month,min_bank,potential_issue,pieces_past_due,perf_6_month_avg,perf_12_month_avg,local_bo_qty,deck_risk,oe_constraint,ppap_risk,stop_auto_buy,rev_stop
+77.0,8.0,1.0,9.0,27.0,67.0,104.0,18.0,No,0.0,0.91,0.96,0.0,No,No,No,Yes,No
