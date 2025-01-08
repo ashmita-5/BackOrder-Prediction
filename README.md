@@ -45,11 +45,6 @@ Form for the manual input:
 Uploaded the Excel files:
 ![Placeholder for Web Application Screenshot 2](figure/uploadedExcel.png)
 
-## Contributors
-
-- Sitthiwat Damrongpreechar
-- Ashmita Phuyal
-
 ## License
 
 This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
